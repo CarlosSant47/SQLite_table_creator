@@ -12,7 +12,7 @@ de la tabla y el nombre del campo primario
 SQLiteTable table = new SQLiteTable("table_name", "column_id_name");
 
 ```
-#####Añadir una columna
+##### Añadir una columna
 Para añadir una columna es muy simple usamos el metodo, el metodo tiene
 dos formas de agregar una columna la primera es que resive como parametro
 el nombre del campo y el tipo de datos(ya estan definidos en la clase, como se muestra a continuacion.
