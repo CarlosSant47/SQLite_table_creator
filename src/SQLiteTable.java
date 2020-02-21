@@ -1,3 +1,7 @@
+/*
+ * Copyright (c) 2020. Carlos Santiago, no usar con fines comerciales, solo con fines educativos
+ */
+
 import java.util.ArrayList;
 
 public class SQLiteTable {
